@@ -12,12 +12,14 @@
   Opening scene: The player as the Jade Emperor's Son is sent down to East Asia for causing trouble in the Imperial Court in order to cure the people. Game then switches to screen showing a map of East Asia. Icons appear to represent sickness and the player can user medicine 
 
 ## List of Chinese Medicine Ingredients for the Game:
+
 ### Starting Medicine
 * Mercury
 * Arsenic
 * Ginger
 * Goji Berry
 * Cannabis 
+
 ### Mid-Range Medicine
 * Aristolichic Acid
 * Ginseng
