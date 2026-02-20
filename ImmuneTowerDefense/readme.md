@@ -3,7 +3,7 @@
 ## Mockups & UML
 
 ### Start screen
-![ITDstartscreen](ImmuneTowerDefense/photos/ITDstartScreen.png)
+![ITDstartscreen](photos/ITDstartScreen.png)
 ### Playing Game
 
 ### End Screen
