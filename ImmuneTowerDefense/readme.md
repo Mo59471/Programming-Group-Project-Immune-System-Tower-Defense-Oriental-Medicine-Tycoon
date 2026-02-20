@@ -8,8 +8,6 @@
 ![ITDstartscreen](https://github.com/Mo59471/Programming-Group-Project-Immune-System-Tower-Defense-Oriental-Medicine-Tycoon/blob/main/ImmuneTowerDefense/photos/ITDstartScreen.png)
   
 &nbsp;
-***
-&nbsp;
 
 ### Game UI
 ![ITDplayscreen](https://github.com/Mo59471/Programming-Group-Project-Immune-System-Tower-Defense-Oriental-Medicine-Tycoon/blob/main/ImmuneTowerDefense/photos/ImmuneTowerDefenseUI.png)
