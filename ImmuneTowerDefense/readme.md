@@ -2,10 +2,10 @@
 
 ## Mockups & UML
 
-#### Start screen
+### Start screen
 ![ITDstartscreen](photos/ITDstartScreen.png)
-#### Playing Game
-
+### Playing Game
+![IDplayscreen](photos/ImmuneTowerDefenseUI.png)
 #### End Screen
 
 #### UML
