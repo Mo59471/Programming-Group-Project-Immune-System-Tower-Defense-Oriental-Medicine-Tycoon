@@ -17,7 +17,6 @@ Opening scene: The player as the Jade Emperor's Son is sent down to East Asia fo
 * Some medicines may be unethical with could decrease reputation if exposed.
 
 ## List of Chinese Medicine Ingredients for the Game:
-*本草綱目 will probably be good source btw
 ### Starting Medicine
 * Mercury
 * Arsenic
