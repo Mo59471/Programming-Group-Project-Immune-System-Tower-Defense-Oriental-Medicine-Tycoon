@@ -1,4 +1,4 @@
-## Oriental Chinese Medicine Tycoon General Ideas:
+## Daoist Pharmaceutical General Ideas:
 * CCP and Western Medicine-relationships with either to compete with the other
 * Money and Reputation system
 * Placebo effect modifier?
