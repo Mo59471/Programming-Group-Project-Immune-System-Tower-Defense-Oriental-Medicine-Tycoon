@@ -20,7 +20,7 @@
 &nbsp;
 
 ### UML
-![gameUML](https://github.com/Mo59471/Programming-Group-Project-Immune-System-Tower-Defense-Oriental-Medicine-Tycoon/blob/main/ImmuneTowerDefense/photos/ImmuneTowerDefense.png)
+![gameUML](https://github.com/Mo59471/Programming-Group-Project-Immune-System-Tower-Defense-Oriental-Medicine-Tycoon/blob/main/ImmuneTowerDefense/photos/ImmuneDefenseUML.jpg)
   
 &nbsp;
 
