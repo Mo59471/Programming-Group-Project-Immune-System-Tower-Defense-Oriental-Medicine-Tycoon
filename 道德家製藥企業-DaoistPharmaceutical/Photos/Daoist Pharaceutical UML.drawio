@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="BDHdslyyTttRG7nQNyZk">
+    <mxGraphModel dx="1090" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NeiRk4o5_YPmOY7zYHhQ-15" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" value="Daoist Pharaceutical UML | Ethan Tang | 2/19/26" vertex="1">
+          <mxGeometry height="40" width="780" x="35" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Main File" vertex="1">
+          <mxGeometry height="200" width="160" x="380" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-2" parent="hVN5wFXiPHgcZ9fnmJwG-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import pygame&lt;div&gt;+ Import random&lt;br&gt;&lt;div&gt;+ playerD: list&lt;/div&gt;&lt;div&gt;+ timerI: dict&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ available: list&lt;/div&gt;&lt;div&gt;+ mode: int&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-3" parent="hVN5wFXiPHgcZ9fnmJwG-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-7" edge="1" parent="hVN5wFXiPHgcZ9fnmJwG-1" source="hVN5wFXiPHgcZ9fnmJwG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="281.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-4" parent="hVN5wFXiPHgcZ9fnmJwG-1" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ timer():&amp;nbsp;&lt;div&gt;+ update():&lt;/div&gt;&lt;div&gt;+ randGen():&lt;/div&gt;&lt;div&gt;+ tutorial():&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="160" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Disease" vertex="1">
+          <mxGeometry height="218" width="160" x="510" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-4" parent="hVN5wFXiPHgcZ9fnmJwG-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import pygame&lt;div&gt;+ Import random&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ area: list&lt;/div&gt;&lt;div&gt;+ prompts: list&lt;/div&gt;&lt;div&gt;+ dChange: list&lt;/div&gt;&lt;div&gt;+ dInfo: list&lt;/div&gt;&lt;div&gt;+ medicineI: dict&lt;/div&gt;" vertex="1">
+          <mxGeometry height="114" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-7" parent="hVN5wFXiPHgcZ9fnmJwG-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-8" parent="hVN5wFXiPHgcZ9fnmJwG-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ genArea(): list&lt;div&gt;+ convert(): list&lt;/div&gt;&lt;div&gt;+ update(): list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" y="148" as="geometry" />
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-8" edge="1" parent="1" source="hVN5wFXiPHgcZ9fnmJwG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" target="hVN5wFXiPHgcZ9fnmJwG-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="647" />
+            </Array>
+            <mxPoint x="410" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Rescources" vertex="1">
+          <mxGeometry height="190" width="160" x="330" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-14" parent="hVN5wFXiPHgcZ9fnmJwG-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import pygame&lt;div&gt;+ Import random&lt;br&gt;&lt;div&gt;+ area: list&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ prompts: list&lt;/div&gt;&lt;div&gt;+ rChange: list&lt;/div&gt;&lt;div&gt;+ rInfo: list&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="94" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-15" parent="hVN5wFXiPHgcZ9fnmJwG-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-16" parent="hVN5wFXiPHgcZ9fnmJwG-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ genArea(): list&lt;div&gt;+ convert(): list&lt;/div&gt;&lt;div&gt;+ update(): list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="160" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-17" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Result" vertex="1">
+          <mxGeometry height="168" width="160" x="425" y="632" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-18" parent="hVN5wFXiPHgcZ9fnmJwG-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import random" vertex="1">
+          <mxGeometry height="34" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-19" parent="hVN5wFXiPHgcZ9fnmJwG-17" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hVN5wFXiPHgcZ9fnmJwG-20" parent="hVN5wFXiPHgcZ9fnmJwG-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ rResult(rInfo,medicineI): list&lt;div&gt;+dResult(dInfo): list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" y="68" as="geometry" />
+        </mxCell>
+        <mxCell id="NAJqP2OpYTMftbDIxURG-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Market" vertex="1">
+          <mxGeometry height="218" width="160" x="150" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NAJqP2OpYTMftbDIxURG-2" parent="NAJqP2OpYTMftbDIxURG-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import pygame&lt;div&gt;+ Import random&lt;br&gt;&lt;div&gt;+ ccpR: int&lt;/div&gt;&lt;div&gt;+ westR: int&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+ prompts: list&lt;/div&gt;&lt;div&gt;+ current: list&lt;/div&gt;&lt;div&gt;+ options: list&lt;/div&gt;&lt;div&gt;+ mChange: list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NAJqP2OpYTMftbDIxURG-3" parent="NAJqP2OpYTMftbDIxURG-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NAJqP2OpYTMftbDIxURG-4" parent="NAJqP2OpYTMftbDIxURG-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ generateOffers(): list&lt;div&gt;+ convert(): list&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ update(): list&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="jyNPOPTRG4NIdaZknj1b-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Button" vertex="1">
+          <mxGeometry height="200" width="160" x="630" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jyNPOPTRG4NIdaZknj1b-2" parent="jyNPOPTRG4NIdaZknj1b-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Import pygame&lt;div&gt;+ x: int&lt;div&gt;+ y: int&lt;/div&gt;&lt;div&gt;+ w: int&lt;/div&gt;&lt;div&gt;+ l: int&lt;/div&gt;&lt;div&gt;+ r: int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ c1: int&lt;/div&gt;&lt;div&gt;+ c2: int&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jyNPOPTRG4NIdaZknj1b-3" parent="jyNPOPTRG4NIdaZknj1b-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jyNPOPTRG4NIdaZknj1b-4" parent="jyNPOPTRG4NIdaZknj1b-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ display()&lt;div&gt;+ hover(): boolean&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="160" y="158" as="geometry" />
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="NAJqP2OpYTMftbDIxURG-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="210" />
+              <mxPoint x="330" y="210" />
+            </Array>
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="300.00000000000006" y="217.79200000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-3" edge="1" parent="1" source="hVN5wFXiPHgcZ9fnmJwG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="jyNPOPTRG4NIdaZknj1b-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="213" />
+              <mxPoint x="600" y="213" />
+              <mxPoint x="600" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-6" edge="1" parent="1" source="hVN5wFXiPHgcZ9fnmJwG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hVN5wFXiPHgcZ9fnmJwG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE1TrjneYnXEfX8IzEH8-9" edge="1" parent="1" source="hVN5wFXiPHgcZ9fnmJwG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="650" />
+            </Array>
+            <mxPoint x="590" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
