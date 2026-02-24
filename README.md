@@ -56,6 +56,8 @@ Opening scene: The player as the Jade Emperor's Son is sent down to East Asia fo
 * Special medicines or techniques sold by CCP and Western Medicine that can only be purchased given the players relations are good enough 
 * Some medicines may be unethical with could decrease reputation if exposed.
 
+![Game Over](https://github.com/Mo59471/Programming-Group-Project-Immune-System-Tower-Defense-Oriental-Medicine-Tycoon/blob/main/道德家製藥企業-DaoistPharmaceutical/Photos/Game%20Over.png?raw=true)
+
 ## List of Chinese Medicine Ingredients for the Game:
 ### Starting Medicine
 * Mercury
